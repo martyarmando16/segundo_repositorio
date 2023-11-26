@@ -1,2 +1,2 @@
 # segundo_repositorio
-netzun curso de github
+Modificando el segundo repositorio
